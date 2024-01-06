@@ -27,7 +27,7 @@ Comprehensive management of voter information, extending to deletion of records 
 Overseeing other crucial administrative tasks necessary for system maintenance and optimization.
 
 ## Official Live Website
-
+https://simple-voting-system-seven.vercel.app/
 
 ## Technology used in the project
 Sveltekit, for its backend interaction and server routing

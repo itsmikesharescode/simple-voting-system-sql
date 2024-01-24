@@ -1,7 +1,8 @@
+## UPDATED VERSION IS HERE !!! AND ITS DYNAMIC !!!!! UNLI ADMIN ACCOUNT AND VOTER ACCOUNT
+https://github.com/itsmikesharescode/shad-cn-voting-system-port
 
 ## Developed from the Ground Up:
 I single-handedly constructed this project from the ground up, utilizing my coding expertise to bring its vision to life. This was due to being the sole team member with the necessary programming capabilities.
-
 
 ## About This Project
 
